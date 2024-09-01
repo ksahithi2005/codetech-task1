@@ -12,4 +12,4 @@ Mentor:Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
 
-Project:Wethwe Forecast App
+Project:Wether Forecast App
